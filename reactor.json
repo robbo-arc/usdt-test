@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "robbo-arc",
+    "repo": "usdt-test",
+    "branch": "master"
+  },
+  "name": "USDT test",
+  "description": "USDT test",
+  "version": "1.0.0",
+  "projectId": 1029
+}
